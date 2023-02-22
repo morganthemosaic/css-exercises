@@ -46,7 +46,7 @@ a {
 .cards {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 48px;
+	gap: 24px;
 	padding: 32px;
 	justify-content: space-evenly;
 }
@@ -55,8 +55,7 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  flex: 1 0 300px;
-	max-height: 400px;
+  width: 300px;
 	padding: 16px;
 }
 
